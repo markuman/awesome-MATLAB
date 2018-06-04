@@ -1,1 +1,1 @@
-bye bye microsoft. please visit https://git.osuv.de/m/markuman/awesome-MATLAB
+bye bye microsoft. please visit https://git.osuv.de/m/awesome-MATLAB
